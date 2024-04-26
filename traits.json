@@ -1,0 +1,49 @@
+{
+  "traits": [
+    {
+      "trait_type": "Background",
+      "options": [
+        {"value": "Space", "probability": 0.2},
+        {"value": "Underwater", "probability": 0.2},
+        {"value": "Forest", "probability": 0.2},
+        {"value": "Desert", "probability": 0.2},
+        {"value": "City", "probability": 0.2}
+      ]
+    },
+    {
+      "trait_type": "Body",
+      "options": [
+        {"value": "Alien", "probability": 0.1},
+        {"value": "Human", "probability": 0.5},
+        {"value": "Robot", "probability": 0.4}
+      ]
+    },
+    {
+      "trait_type": "Headgear",
+      "options": [
+        {"value": "None", "probability": 0.5},
+        {"value": "Helmet", "probability": 0.2},
+        {"value": "Hat", "probability": 0.2},
+        {"value": "Crown", "probability": 0.1}
+      ]
+    },
+    {
+      "trait_type": "Accessories",
+      "options": [
+        {"value": "Glasses", "probability": 0.3},
+        {"value": "Earrings", "probability": 0.3},
+        {"value": "Scarf", "probability": 0.2},
+        {"value": "Necklace", "probability": 0.2}
+      ]
+    },
+    {
+      "trait_type": "Clothing",
+      "options": [
+        {"value": "Casual", "probability": 0.4},
+        {"value": "Armor", "probability": 0.2},
+        {"value": "Suit", "probability": 0.2},
+        {"value": "Robe", "probability": 0.2}
+      ]
+    }
+  ]
+}
